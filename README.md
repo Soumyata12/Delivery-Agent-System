@@ -1,15 +1,12 @@
 # Delivery-Agent-System
 # CourierTnM
-Automated software to decrease the time required by courier departments to manage large amounts of data. The project aims to generate efficient reports based on various parameters and solves the gaps in the current courier
-systems.
+Automated software to decrease the time required by courier departments to manage large amounts of data and to set a efficient delivery system
 
 # Project Setup Guide
 
 Welcome to the project! This guide will help you set up the project on your local machine and get it up and running. Please follow the instructions carefully to ensure a smooth setup process.
 
 ## Prerequisites
-
-Before you begin, make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
