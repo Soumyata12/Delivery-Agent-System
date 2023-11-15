@@ -20,9 +20,9 @@ Welcome to the project! This guide will help you set up the project on your loca
 2. Navigate to the project directory:
 > `cd couriertnm`
 
-3. Head to the backend directory and follow the [backend setup instructions](./CourierTnM./backend./utils/README.md).
+3. Head to the backend directory and follow the [backend setup instructions](./CourierTnM./backend/README.md).
 
-4. Once the Backend is up and running, head to the frontend directory and follow the [frontend setup instructions](./utils./CourierTnM./frontend./src/README.md).
+4. Once the Backend is up and running, head to the frontend directory and follow the [frontend setup instructions](./utils./CourierTnM./frontend/README.md).
 
 <hr />
 
